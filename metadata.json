@@ -1,0 +1,7 @@
+{
+  "name": "GestureFlow Particles",
+  "description": "A real-time 3D particle system controlled by hand gestures. Open your hand to expand the universe, close it to condense. Switch shapes and colors dynamically.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
